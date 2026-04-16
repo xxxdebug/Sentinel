@@ -6,7 +6,7 @@ extension MicrosoftSecurity
 
 resource detectionRule 'Microsoft.Security/detectionRules@2026-01-01-preview' = {
 
-  displayName: 'My Detection Rule Test Test'
+  displayName: 'Testrule https://www.modernsecurity.nl'
 
   isEnabled: true
 
